@@ -2,6 +2,9 @@
 // exactly one of its element by one. Find the minimal number of moves required
 // to obtain a strictly increasing sequence from the input.
 
+// Hello
+
+
 int arrayChange(int[] inputArray) {
   int moves = 0;
   for (int i = 1; i < inputArray.length; i++) {
